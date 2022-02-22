@@ -8,6 +8,7 @@ class MySafestCountriesApiApplicationTests {
 
 	@Test
 	void contextLoads() {
+		//puppeteer ...
 	}
 
 }
